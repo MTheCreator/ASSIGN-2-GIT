@@ -80,18 +80,7 @@ The responses to the questionnaire can be found in the file:
 
 ---
 
-## Technical Requirements
 
-### Challenge 2 Dependencies
-
-```python
-numpy
-matplotlib
-pandas
-opencv-python (cv2)
-scikit-learn
-seaborn
-scipy
 
 
 ## Challenge 2 Highlights
